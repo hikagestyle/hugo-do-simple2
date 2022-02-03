@@ -39,6 +39,7 @@ HUGOで個人的に使うシンプルなテーマ。（hugo-do-simple2）
 	- blog,tags/xxxx
 - 固定ページ（デフォルト:日付表示なし）
 	- hugo-do-simple2/layouts/_default/single.html,コメントアウト
+- メニューページ（固定ページ）
 
 
 ## 完成イメージ
