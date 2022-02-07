@@ -58,7 +58,8 @@ HUGOで個人的に使うシンプルなテーマ。
 	- blog
 	- tags/xxx
 - 固定ページ（デフォルト:日付表示なし）
-	- hugo-do-simple2/layouts/_default/single.html,コメントアウト
+	- hugo-do-simple2/layouts/_default/single.html
+	- コメントアウト
 - メニューページ（固定ページ）
 
 [マークダウン](../tags/markdown/)
