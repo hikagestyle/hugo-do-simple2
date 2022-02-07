@@ -45,6 +45,8 @@ HUGOで個人的に使うシンプルなテーマ。
 
 ## 基本的な仕様
 
+ドメイン直下、サブディレクトリでも、とりあえず使えるはず。（config.tomlのbaseURLによる）
+
 - hugo v0.92.0
 - pure.css
 - config.toml
@@ -97,4 +99,5 @@ HUGOで個人的に使うシンプルなテーマ。
 	- hugo
 	- hugo -D
 - publicフォルダが生成される
+
 
