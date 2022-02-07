@@ -26,6 +26,8 @@ HUGOで個人的に使うシンプルなテーマ。（hugo-do-simple2）
 
 ## 基本的な仕様
 
+ドメイン直下、サブディレクトリでも、とりあえず使えるはず。（config.tomlのbaseURLによる）
+
 - hugo v0.92.0
 - pure.css
 - config.toml
@@ -38,7 +40,8 @@ HUGOで個人的に使うシンプルなテーマ。（hugo-do-simple2）
 	- config.toml,Paginate = 10
 	- blog,tags/xxxx
 - 固定ページ（デフォルト:日付表示なし）
-	- hugo-do-simple2/layouts/_default/single.html,コメントアウト
+	- hugo-do-simple2/layouts/_default/single.html
+	- コメントアウト
 - メニューページ（固定ページ）
 
 
